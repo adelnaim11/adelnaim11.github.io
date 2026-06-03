@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "0.0.7",
+  "versionCode": 8,
+  "versionName": "0.0.8",
   "apkUrl": "https:/adelnaim11.github.io/app-release.apk",
   "fileName": "app-release.apk",
   "releaseNotes": "Fixed the chat with admin problem"
