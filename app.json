@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "0.1.4",
+  "versionCode": 16,
+  "versionName": "0.1.6",
   "apkUrl": "https:/adelnaim11.github.io/app-release.apk",
   "fileName": "app-release.apk",
-  "releaseNotes": "testing update"
+  "releaseNotes": "fixes bugs and improves performance"
 }
