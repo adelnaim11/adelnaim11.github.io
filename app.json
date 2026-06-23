@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "0.2.1",
+  "versionCode": 22,
+  "versionName": "0.2.2",
   "apkUrl": "https://adelnaim11.github.io/app-release.apk",
   "fileName": "app-release.apk",
-  "releaseNotes": "Clear Cache and Update"
+  "releaseNotes": "Multiple bug fixes and performance improvements."
 }
