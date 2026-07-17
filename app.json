@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "versionCode": 29,
   "versionName": "0.2.9",
+=======
+  "versionCode": 12,
+  "versionName": "0.1.2",
+>>>>>>> 0c6188a85a0eb825cbda41d6d74756512fff3cfd
   "apkUrl": "https://adelnaim11.github.io/app-release.apk",
   "fileName": "app-release.apk",
   "releaseNotes": "Application Update: New features and improvements!"
