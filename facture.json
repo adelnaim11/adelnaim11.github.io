@@ -1,6 +1,6 @@
 {
-  "version": "1.1.3",
-  "url": "https://github.com/adelnaim11/adelnaim11.github.io/releases/download/v1.1.3/SalesOrderToJSON.exe",
-  "sha256": "7277FD86098A0A8EB3EA65FAA54BBEF928BBF21202BA335A4717A02EDD9E90C6",
-  "notes": "Enhanced and improved + UI Update"
+  "version": "1.1.4",
+  "url": "https://github.com/adelnaim11/adelnaim11.github.io/releases/download/v1.1.4/SalesOrderToJSON.exe",
+  "sha256": "C97C25AB09960F36AE8EB07E0DD59ED28FDA101681660D3F57B7005C6042B86E",
+  "notes": "Added Search Bar - Improved UI/UX design"
 }
