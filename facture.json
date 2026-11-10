@@ -1,6 +1,6 @@
 {
-  "version": "1.1.4",
-  "url": "https://github.com/adelnaim11/adelnaim11.github.io/releases/download/v1.1.4/SalesOrderToJSON.exe",
-  "sha256": "C97C25AB09960F36AE8EB07E0DD59ED28FDA101681660D3F57B7005C6042B86E",
-  "notes": "Added Search Bar - Improved UI/UX design"
+  "version": "1.1.5",
+  "url": "https://github.com/adelnaim11/adelnaim11.github.io/releases/download/v1.1.5/SalesOrderToJSON.exe",
+  "sha256": "5014DC9321693684541CC5E99768EAC46EB0488558E95EB7AC837073E6D4D2F9",
+  "notes": "No More Swapped Items - Automatic Reporting system to me!"
 }
